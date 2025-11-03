@@ -31,6 +31,12 @@ I'm a Computer Science student at the Technical University of Munich (TUM) with 
  
 ### 🌟 Featured Projects
 
+* [**Olymarket**](olymarket.net)
+
+  * Developed and launched the new Olydorf Marketplace (olymarket.net) platform, a locally hosted community trading site serving hundreds of active users within the Olydorf network.
+  * Led the testing and rollout phase, coordinating user feedback, feature requests, and bug reports to ensure stability and smooth performance during the live beta.
+  * Collaborated with local infrastructure provider Olynet to deploy and maintain a secure, region-restricted hosting environment, ensuring reliability and data privacy for all users
+    
 * [**Stat Tracker Website**]()
 
   * Created and maintain a dashboard that aggregates and analyzes hourly data for over 20,000 users.
